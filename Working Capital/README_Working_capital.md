@@ -4,7 +4,7 @@ This folder contains a self-directed project: a benchmark of how
 efficiently two companies convert their operations into cash, and a quantified set of
 actions the weaker performer could take to release cash.
 
-> **Illustrative data.** The two companies — *Alpha Systems* and *Beta Energy* are fictional, with synthetic but realistic figures modelled on a energy-equipment business. The purpose is to demonstrate the analytical method on a clean dataset, not to report on any real company.
+> **Illustrative data.** The two companies *Alpha Systems* and *Beta Energy* are fictional, with synthetic but realistic figures modelled on a energy-equipment business. The purpose is to demonstrate the analytical method on a clean dataset, not to report on any real company.
 
 ## What's in the folder
 
