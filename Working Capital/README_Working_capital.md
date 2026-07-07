@@ -1,4 +1,4 @@
-# Working Capital & Cash Flow Deep-Dive — Read Me
+# Working Capital & Cash Flow  
 
 This folder contains a self-directed project: a benchmark of how
 efficiently two companies convert their operations into cash, and a quantified set of
